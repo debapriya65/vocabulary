@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_layout_first"
+        android:title="FAST TO LAST"
+        />
+    <item
+        android:id="@+id/menu_layout_last"
+        android:title="LAST TO FIRST"
+        />
+    <item
+        android:id="@+id/menu_layout_randm"
+        android:title="RANDOM"
+        />
+    <item
+        android:id="@+id/menu_layout_swat"
+        android:title="SWAP"
+        />
+    <item
+        android:id="@+id/menu_layout_delete"
+        android:title="DELETE"
+        />
+
+</menu>
